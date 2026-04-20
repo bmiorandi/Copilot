@@ -1,0 +1,9 @@
+{
+  "name": "Interview Copilot",
+  "description": "Trilingual real-time interview assistant. Listens to the interviewer and provides real-time suggested answers based on your resume.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": []
+}
